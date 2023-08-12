@@ -20,9 +20,16 @@ ${\color{blue}Color \space \color{lightblue}The Color \space \color{darkblue}Col
 ###### Using $$ centers the text: 
 $${\color{blue}Color \space \color{lightblue}The Color \space \color{darkblue}Color}$$
 
+
 >  __Note__
 > 
 >
+
+ Header |	Header	  
+ ------ | ------	 
+ Content|Content	
+ Content |Content	 
+
 
 >  __Warning__
 >
