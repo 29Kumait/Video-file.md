@@ -6,7 +6,7 @@ https://github.com/29Kumait/Video-file.md/assets/137179507/19a14426-5158-4926-b7
 
 
 
-##### Away from style; Wasn't easy to find: 
+##### Poor style; wasn't easy to find: 
 
 ```diff
 @@ color @@
